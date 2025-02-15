@@ -1,1 +1,2 @@
 # AI-project
+This Python-based Game Menu System provides an interactive interface for users to select and play two classic games: Connect 4 and Tic-Tac-Toe. The menu features buttons for launching either game and an exit option. The Connect 4 game includes AI-powered moves using the Minimax algorithm with alpha-beta pruning, allowing players to compete against the computer. The Tic-Tac-Toe game offers multiple difficulty levels and also utilizes alpha-beta pruning for strategic AI decision-making. The project leverages Pygame for graphical rendering and user interaction
